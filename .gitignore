@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.tar.gz
+
+protobuf-3.6.0/
+
+.vscode/
